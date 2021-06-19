@@ -15,10 +15,14 @@
   - ```bash
     wget https://github.com/dikripto/xmrig/archive/refs/heads/master.zip
     ```
+  - Unzip file zip
+    ```bash
+    unzip master.zip
+    ```
 - Build Miner
   - Masuk ke folder miner
     ```bash 
-    cd master
+    cd xmrig-master
     ```
   - Buat folder bernama `build` untuk menampung hasil build nanti 
     ```bash 
@@ -58,3 +62,8 @@
     ```bash
     ./xmrig
     ```
+
+### Cek Jumlah Koin yang Telah dimining
+
+`https://www.unmineable.com/coins/{KOIN}/address/{WALLET_ADDRESS}`
+contoh: `https://www.unmineable.com/coins/DOGE/address/abc123`
