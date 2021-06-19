@@ -1,7 +1,7 @@
-## Tutorial Compile sampai Penggunaan XMRig
+## Tutorial Mining
 
 - Install termux
-  - Download di Google Play   
+  - Download di [Google Play](https://play.google.com/store/apps/details?id=com.termux&hl=en&gl=US)
 - Adjust Termux
   - Perbaiki repositori yang rusak `termux-change-repo`   
   - Install package yang dibutuhkan `pkg install wget cmake`
