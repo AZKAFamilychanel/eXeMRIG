@@ -54,10 +54,6 @@
     > Keterangan `{NAMA KOIN}:{WALLET ADDRESS}.{NAMA WORKER}#{KODE REFERAL}`
   - Simpan File, (Tekan CTRL+X, lalu tekan Y,lalu tekan Enter)
 - Jalankan miner
-  - Ubah permission agar miner bisa dijalankan 
-    ```bash 
-    chmod +x xmrig
-    ```
   - eksekusi miner 🤑 
     ```bash
     ./xmrig
