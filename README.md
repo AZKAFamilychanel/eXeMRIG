@@ -28,6 +28,10 @@
     ```bash 
     mkdir build
     ```
+  - Masuk ke folder `build`
+   ```bash
+   cd build
+   ```
   - Proses konfigurasi build
     ```bash
     cmake .. -DWITH_HWLOC=OFF
