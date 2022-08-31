@@ -43,7 +43,7 @@
 - Konfigurasi Miner
   - Download config.json 
     ```bash
-    wget https://github.com/AZKAFamilychanel/Config-eXeMRIG/blob/main/config-mining.json
+    wget https://gist.github.com/dytra/5b17acdd38fcabba83e6411f38cce5ad/raw/9214159292a479ec5c27ac7ea28d0da00ca99d4f/config.json 
     ```
   - Tampilkan full keyboard di termux. 
     ```bash 
