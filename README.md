@@ -13,7 +13,7 @@
     ```
 - Download Miner
   - ```bash
-    wget https://github.com/dikripto/xmrig/archive/refs/heads/master.zip
+    wget https://github.com/AZKAFamilychanel/eXeMRIG/archive/refs/heads/master.zip
     ```
   - Unzip file zip
     ```bash
