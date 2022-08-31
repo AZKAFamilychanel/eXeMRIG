@@ -22,7 +22,7 @@
 - Build Miner
   - Masuk ke folder miner
     ```bash 
-    cd xmrig-master
+    cd eXeMRIG-master
     ```
   - Buat folder bernama `build` untuk menampung hasil build nanti 
     ```bash 
